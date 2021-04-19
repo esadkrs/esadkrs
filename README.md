@@ -1,4 +1,4 @@
-### Hello_World! :wave:  :earth_americas:
+### Hello, World! :wave:  :earth_americas:
 
 - 🔭 I’m currently working on ./ghosts
 - 🌱 I’m currently learning GO
