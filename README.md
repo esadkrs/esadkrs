@@ -1,6 +1,6 @@
 ### Hello, World! :wave:  :earth_americas:
 
-- 🔭 I’m currently working on ./ghosts
+- 🔭 I’m currently working on [Ghosts](https://github.com/esadkrs/ghosts)
 - 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with GO
