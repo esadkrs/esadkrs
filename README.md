@@ -1,5 +1,6 @@
 ### Hello, World! :wave:  :earth_americas:
 
+- :books: FAU Alumni :owl:
 - 🔭 I’m currently working on [Ghosts](https://github.com/esadkrs/ghosts)
 - 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on ...
