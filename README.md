@@ -2,8 +2,8 @@
 
 **_I am a skilled software developer specializing in React Native, backend services, and cloud infrastructure._**
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png)]([https://www.linkedin.com/](https://www.linkedin.com/in/mehmet-esad-kiris-566a60126/))
-&nbsp;
+[![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/mehmet-esad-kiris-566a60126/)
+
 ```js
 const aboutMe = {
   greeting: "Hello, World! 👋 🌎",
