@@ -74,13 +74,14 @@ mindmap
         Git
         GitHub
         GitLab
-      IDEs & Editors
+      IDEs and Editors
         VS Code
         WebStorm
+        vim
       Package Managers
         npm
         yarn
-    Testing & Tools
+    Testing
       Mocha
       Chai
       Postman
