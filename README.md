@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello World! 👋
+<h1 align="center">Hi 👋, I'm Esad</h1>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" />
@@ -59,6 +59,18 @@ mindmap
       CI/CD Pipelines
       Containerization
 ```
+
+<div align="center">
+  
+![GitHub Contribution Snake](./dist/github-snake-dark.svg)
+
+<!-- 3D Contribution Calendar -->
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-green.svg)
+
+<!-- Contribution Stats -->
+![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=esadkrs&theme=dark&hide_border=true&background=0D1117)
+
+</div>
 
 ## 📫 Get in Touch
 - [![Website](https://img.shields.io/badge/kirisconsulting.tech-000000?style=for-the-badge&logo=globe&logoColor=white)](https://kirisconsulting.tech)
