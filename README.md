@@ -60,19 +60,18 @@ mindmap
       Containerization
 ```
 
-<div align="center">
-  
-![GitHub Contribution Snake](./dist/github-snake-dark.svg)
 
-<!-- 3D Contribution Calendar -->
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-green.svg)
 
-<!-- Contribution Stats -->
-![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=esadkrs&theme=dark&hide_border=true&background=0D1117)
-
-</div>
 
 ## 📫 Get in Touch
 - [![Website](https://img.shields.io/badge/kirisconsulting.tech-000000?style=for-the-badge&logo=globe&logoColor=white)](https://kirisconsulting.tech)
 - [![LinkedIn](https://img.shields.io/badge/Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-esad-kiris-566a60126/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esad@kirisconsulting.tech)
+
+
+<div align="center">
+
+<!-- Contribution Stats -->
+![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=esadkrs&theme=dark&hide_border=true&background=0D1117)
+
+</div>
