@@ -34,8 +34,6 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
----
-
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -43,22 +41,16 @@
 ![Knex](https://img.shields.io/badge/-Knex.js-30628A?style=for-the-badge&logo=javascript&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
----
-
 ### Database Systems
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NATS](https://img.shields.io/badge/-NATS-0097DA?style=for-the-badge&logo=nats&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-
----
 
 ### Tools & Frameworks
 ![Expo Router](https://img.shields.io/badge/-Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -68,7 +60,6 @@
 
 </div>
 
----
 
 ## 🎯 Key Projects
 
@@ -93,8 +84,8 @@ mindmap
       Containerization
 ```
 
----
 
+---
 
 <div align="center">
 
